@@ -8,9 +8,8 @@ I wanted a simple design for this NFC Holder. I designed it on OnShape and then 
 ## 3D Printer
  Original Prusa Mini+
 ## Material(s)
-INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Accuracy +/- 0.03mm - 1kg Cardboard Spool (2.2 lbs), Marble PLA
- – this can be purchased for $29.99 at the following link:
-https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+* [INLAND Marble PLA Filament ($29.99)](https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+)
 # Software
  PrusaSlicer
  ![Image_3](https://github.com/user-attachments/assets/74f0e6df-54ff-4fed-aae8-e25df3ee9b7c)
@@ -35,8 +34,8 @@ The last thing left is the most critical: Make sure to press the “Write” but
 ![Image_8](https://github.com/user-attachments/assets/31dc1378-8515-458f-8f18-602377ca62ee)
 Now, the next time you approach the NFC tag, you will be prompted on whether on not you wish to join the WiFi network written on it.
 ## Material(s)
-10pcs NFC Stickers Black NFC Tags NTAG215 NFC Sticker Tags 25MM Black NFC Stickers 504 Bytes Memory Programmable NFC Tags Compatible with Android iOS and NFC Enabled Phones Devices – this can be purchased for $7.96 at the following link:
-https://www.amazon.com/Stickers-NTAG215-Programmable-Compatible-Android/dp/B091FCDPDR/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.27b41115-b206-47c3-8621-713097e8442c%3Aamzn1.sym.27b41115-b206-47c3-8621-713097e8442c&crid=2CUK9W8I3L1WZ&cv_ct_cx=nfc%2Btags%2Bk%2Blakey&keywords=nfc%2Btags%2Bk%2Blakey&pd_rd_i=B091FCFJT9&pd_rd_r=1cfacf3c-cea7-49fc-9283-38dc8e35ebf4&pd_rd_w=3jGhz&pd_rd_wg=fOWr0&pf_rd_p=27b41115-b206-47c3-8621-713097e8442c&pf_rd_r=T2JE71K6VYQHEHNZ605T&qid=1735842929&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=nfc%2Btags%2Bk%2Blakey%2Caps%2C74&sr=1-1-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1
+* [NFC Stickers ($7.96)](https://www.amazon.com/Stickers-NTAG215-Programmable-Compatible-Android/dp/B091FCDPDR/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.27b41115-b206-47c3-8621-713097e8442c%3Aamzn1.sym.27b41115-b206-47c3-8621-713097e8442c&crid=2CUK9W8I3L1WZ&cv_ct_cx=nfc%2Btags%2Bk%2Blakey&keywords=nfc%2Btags%2Bk%2Blakey&pd_rd_i=B091FCFJT9&pd_rd_r=1cfacf3c-cea7-49fc-9283-38dc8e35ebf4&pd_rd_w=3jGhz&pd_rd_wg=fOWr0&pf_rd_p=27b41115-b206-47c3-8621-713097e8442c&pf_rd_r=T2JE71K6VYQHEHNZ605T&qid=1735842929&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=nfc%2Btags%2Bk%2Blakey%2Caps%2C74&sr=1-1-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1
+)
 # Tips
 You may have an issue ensuring that your phone can read the NFC tag. I recommend, for at least Android and the process is likely similar for iOS, going to Settings -> Connected Devices -> Connection Preferences -> NFC (and turn this on).
 
